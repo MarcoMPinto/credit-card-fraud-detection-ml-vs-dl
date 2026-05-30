@@ -1,0 +1,18 @@
+# Dataset files (too large for GitHub)
+*.csv
+*.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Kaggle credentials (never commit these)
+kaggle.json
+.kaggle/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
