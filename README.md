@@ -55,10 +55,11 @@ An end-to-end fraud detection system built on 284,807 real credit card transacti
 
 ## How to Run
 
-1. Open the notebook in Google Colab
-2. Go to the left sidebar → 🔑 Secrets
-3. Add `KAGGLE_USERNAME` and `KAGGLE_KEY` as secrets
-4. Run all cells (`Runtime → Run all`)
+- **View notebook**: [Open in NBViewer](https://nbviewer.org/github/MarcoMPinto/credit-card-fraud-detection-ml-vs-dl/blob/main/credit_card_fraud_detection_ml_vs_dl.ipynb)
+- **Run notebook**: Open in [Google Colab](https://colab.research.google.com/drive/19pMP0BNMAPjf3-iEttmeXyXmBzMtYyco?usp=sharing) (Google account required)
+  - Go to left sidebar → 🔑 Secrets
+  - Add `KAGGLE_USERNAME` and `KAGGLE_KEY`
+  - Run all cells (`Runtime → Run all`)
 
 ---
 
